@@ -32,6 +32,5 @@ This project demonstrates the design and implementation of a **Campus Area Netwo
 3. Switch to Simulation Mode to observe packet flow.
 
 ---
-
-**Author:** Inosha Weerasena  
+  
 **LinkedIn:** [[Inosha Sandaruwan ](https://www.linkedin.com/in/inosha-sandaruwan-601a41214/)]  
