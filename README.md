@@ -24,17 +24,14 @@ This project demonstrates the design and implementation of a **Campus Area Netwo
 
 ## 📂 Files in This Repository
 - `.pkt` file – Cisco Packet Tracer network design.
-- Project documentation (if provided).
+
 
 ## 🚀 How to Use
 1. Open the `.pkt` file in **Cisco Packet Tracer**.
 2. Explore the network topology.
 3. Switch to Simulation Mode to observe packet flow.
 
-## 📷 Screenshots
-(screenshot.png)
-
 ---
 
 **Author:** Inosha Weerasena  
-**LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/inosha-sandaruwan-601a41214/)]  
+**LinkedIn:** [[Inosha Sandaruwan ](https://www.linkedin.com/in/inosha-sandaruwan-601a41214/)]  
